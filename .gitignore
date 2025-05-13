@@ -115,4 +115,13 @@ Thumbs.db
 *.pid
 
 # Custom
-sql/*.sql 
+sql/*.sql
+
+# Ruff cache
+.ruff_cache
+
+.pytest_cache 
+
+# Exceptions
+!.github/
+!.github/workflows/ 

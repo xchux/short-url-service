@@ -1,0 +1,13 @@
+fastapi
+uvicorn
+pydantic
+starlette
+mysql-connector-python
+peewee
+pymysql
+python-dotenv
+redis
+cryptography
+ruff
+pytest
+httpx
